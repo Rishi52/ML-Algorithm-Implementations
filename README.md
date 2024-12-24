@@ -12,6 +12,12 @@ This repository contains a collection of machine learning algorithm implementati
 2. 📊 Create visualizations: histograms, scatter plots, box plots, and heatmaps.
 3. 📈 Interpret data distributions and relationships. 
 
+### Linear Regression
+
+1. 📊 Load Boston Housing dataset.
+2. 📉 Implement simple linear regression and multiple linear regression using scikit-learn.
+3. 📈 Evaluate the models using mean squared error and visualize the regression line.
+
 ---
 
 ## 🛠️🔧📦Installation and Setup
@@ -56,6 +62,7 @@ Each practical is implemented as a Jupyter notebook. Follow these steps to explo
 The repository includes references to popular datasets like:
 
 - 📂 **Titanic Dataset**
+- 📂 **Boston Housing Dataset**
 
 Ensure to download these datasets from reliable sources like Kaggle or scikit-learn if not provided.
 
