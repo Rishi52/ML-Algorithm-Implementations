@@ -20,7 +20,7 @@ This repository contains a collection of machine learning algorithm implementati
 
 ### Logistic Regression
 
-1. 📊 Load a binary classification dataset (e.g., Breast Cancer dataset).
+1. 📊 Load a binary classification dataset i.e. Breast Cancer dataset.
 2. 🧮 Implement logistic regression using scikit-learn.
 3. 📊 Evaluate the model using accuracy, precision, recall, and plot the ROC curve.
 
