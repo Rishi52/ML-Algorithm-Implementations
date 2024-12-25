@@ -18,6 +18,12 @@ This repository contains a collection of machine learning algorithm implementati
 2. 📉 Implement simple linear regression and multiple linear regression using scikit-learn.
 3. 📈 Evaluate the models using mean squared error and visualize the regression line.
 
+### Logistic Regression
+
+1. 📊 Load a binary classification dataset (e.g., Breast Cancer dataset).
+2. 🧮 Implement logistic regression using scikit-learn.
+3. 📊 Evaluate the model using accuracy, precision, recall, and plot the ROC curve.
+
 ---
 
 ## 🛠️🔧📦Installation and Setup
@@ -63,6 +69,7 @@ The repository includes references to popular datasets like:
 
 - 📂 **Titanic Dataset**
 - 📂 **Boston Housing Dataset**
+- 📂 **Breast Cancer Dataset**
 
 Ensure to download these datasets from reliable sources like Kaggle or scikit-learn if not provided.
 
