@@ -12,13 +12,13 @@ This repository contains a collection of machine learning algorithm implementati
 2. 📊 Create visualizations: histograms, scatter plots, box plots, and heatmaps.
 3. 📈 Interpret data distributions and relationships. 
 
-### Linear Regression
+### [Linear Regression](https://github.com/Rishi52/ML-Algorithm-Implementations/blob/main/Linear%20Regression.ipynb)
 
 1. 📊 Load Boston Housing dataset.
 2. 📉 Implement simple linear regression and multiple linear regression using scikit-learn.
 3. 📈 Evaluate the models using mean squared error and visualize the regression line.
 
-### Logistic Regression
+### [Logistic Regression](https://github.com/Rishi52/ML-Algorithm-Implementations/blob/main/Logistic%20Regression.ipynb)
 
 1. 📊 Load a binary classification dataset i.e. Breast Cancer dataset.
 2. 🧮 Implement logistic regression using scikit-learn.
@@ -61,27 +61,27 @@ Each practical is implemented as a Jupyter notebook. Follow these steps to explo
 
 ---
 
-## 📂📊📁Datasets
+## 📂📊📁[Datasets](https://github.com/Rishi52/ML-Algorithm-Implementations/tree/main/Dataset)
 
-### Included References
+Most of the datasets are provided by scikit-learn which are not present you can find follow the links.
+The repository includes references to popular datasets from [Kaggle](https://www.kaggle.com/) like:
 
-The repository includes references to popular datasets like:
+- 📂 **[Titanic Dataset](https://www.kaggle.com/datasets/yasserh/titanic-dataset)**
+- 📂 **[Boston Housing Dataset](https://github.com/Rishi52/ML-Algorithm-Implementations/blob/main/Dataset/housing.csv)**
+- 📂 **[Breast Cancer Dataset](https://www.kaggle.com/datasets/yasserh/breast-cancer-dataset)** 
 
-- 📂 **Titanic Dataset**
-- 📂 **Boston Housing Dataset**
-- 📂 **Breast Cancer Dataset**
+Ensure to download these datasets from reliable sources like  kaggle or scikit-learn if not provided.
 
-Ensure to download these datasets from reliable sources like Kaggle or scikit-learn if not provided.
 
 ---
 
 ## 📚🔧🧰Key Libraries Used
 
-- 📚 **NumPy**: Efficient numerical computations.
-- 📊 **pandas**: Data manipulation and analysis.
-- 📈 **Matplotlib & Seaborn**: Data visualization tools.
-- 🤖 **scikit-learn**: Machine learning algorithms and evaluation metrics.
-- 🧠 **TensorFlow/Keras**: Deep learning models and frameworks. 
+- 📚 **[NumPy](https://numpy.org/)**: Efficient numerical computations.
+- 📊 **[Pandas](https://pandas.pydata.org/docs/)**: Data manipulation and analysis.
+- 📈 **[Matplotlib](https://matplotlib.org/stable/index.html) & [Seaborn](https://seaborn.pydata.org/)**: Data visualization tools.
+- 🤖 **[Scikit-learn](https://scikit-learn.org/stable/)**: Machine learning algorithms and evaluation metrics.
+- 🧠 **[TensorFlow](https://www.tensorflow.org/)**: Deep learning models and frameworks. 
 
 ---
 
@@ -95,7 +95,7 @@ Contributions are welcome! If you’d like to enhance the repository or fix issu
 
 ---
 
-## 📜⚖️📄License
+## 📜⚖️📄[License](https://github.com/Rishi52/ML-Algorithm-Implementations/blob/main/LICENSE)
 
 This project is licensed under the MIT License. See the LICENSE file for more details. 
 
