@@ -6,7 +6,7 @@ This repository contains a collection of machine learning algorithm implementati
 
 ## 🎨📈🛠️Practicals Overview
 
-### Data Visualization and Exploration
+### [Data Visualization and Exploration](https://github.com/Rishi52/ML-Algorithm-Implementations/blob/main/Data%20Visualization%20and%20Exploration.ipynb)
 
 1. 📂 Load Titanic dataset.
 2. 📊 Create visualizations: histograms, scatter plots, box plots, and heatmaps.
