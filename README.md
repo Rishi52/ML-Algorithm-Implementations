@@ -24,6 +24,12 @@ This repository contains a collection of machine learning algorithm implementati
 2. 🧮 Implement logistic regression using scikit-learn.
 3. 📊 Evaluate the model using accuracy, precision, recall, and plot the ROC curve.
 
+### [Decision Trees and Random Forests](https://github.com/Rishi52/ML-Algorithm-Implementations/blob/main/Decision%20Tree%20and%20Random%20Forest.ipynb)
+
+1. 📊 Load a classification dataset Iris dataset.
+2. 🌳 Implement decision tree and random forest classifiers using scikit-learn.
+3. 📋 Evaluate the models, visualize the decision trees, and analyze feature importance.
+
 ---
 
 ## 🛠️🔧📦Installation and Setup
@@ -68,7 +74,8 @@ The repository includes references to popular datasets from [Kaggle](https://www
 
 - 📂 **[Titanic Dataset](https://www.kaggle.com/datasets/yasserh/titanic-dataset)**
 - 📂 **[Boston Housing Dataset](https://github.com/Rishi52/ML-Algorithm-Implementations/blob/main/Dataset/housing.csv)**
-- 📂 **[Breast Cancer Dataset](https://www.kaggle.com/datasets/yasserh/breast-cancer-dataset)** 
+- 📂 **[Breast Cancer Dataset](https://www.kaggle.com/datasets/yasserh/breast-cancer-dataset)**
+- 📂 **[Iris Dataset](https://www.kaggle.com/datasets/himanshunakrani/iris-dataset/data)**
 
 Ensure to download these datasets from reliable sources like  kaggle or scikit-learn if not provided.
 
