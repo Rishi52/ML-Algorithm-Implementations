@@ -30,6 +30,12 @@ This repository contains a collection of machine learning algorithm implementati
 2. 🌳 Implement decision tree and random forest classifiers using scikit-learn.
 3. 📋 Evaluate the models, visualize the decision trees, and analyze feature importance.
 
+###  [Support Vector Machines (SVM)](https://github.com/Rishi52/ML-Algorithm-Implementations/blob/main/Support%20Vector%20Machines%20(SVM).ipynb)
+
+1. 📊 Load a binary classification dataset i.e. Iris dataset.
+2. 📏 Implement SVM with different kernels (linear, polynomial, RBF) using scikit-learn.
+3. 📉 Evaluate the models and visualize the decision boundaries.
+
 ---
 
 ## 🛠️🔧📦Installation and Setup
