@@ -38,6 +38,11 @@ This repository contains a collection of machine learning algorithm implementati
 
 ---
 
+![image](https://github.com/user-attachments/assets/51e6821f-81d8-4098-a2cf-0230c25c8882)
+
+
+---
+
 ## 🛠️🔧📦Installation and Setup
 
 ### Clone the Repository
