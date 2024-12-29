@@ -38,7 +38,9 @@ This repository contains a collection of machine learning algorithm implementati
 
 ---
 
-![image](https://github.com/user-attachments/assets/51e6821f-81d8-4098-a2cf-0230c25c8882)
+![image](https://github.com/user-attachments/assets/7f35e91a-1ffe-40ec-add9-36bb05728905)
+![image](https://github.com/user-attachments/assets/19527762-6604-497f-8f60-35a1a30fb592)
+![image](https://github.com/user-attachments/assets/51e6821f-81d8-4098-a2cf-0230c25c8882) 
 
 
 ---
