@@ -41,7 +41,10 @@ This repository contains a collection of machine learning algorithm implementati
 ![image](https://github.com/user-attachments/assets/7f35e91a-1ffe-40ec-add9-36bb05728905)
 ![image](https://github.com/user-attachments/assets/19527762-6604-497f-8f60-35a1a30fb592)
 ![image](https://github.com/user-attachments/assets/51e6821f-81d8-4098-a2cf-0230c25c8882) 
-
+![image](https://github.com/user-attachments/assets/45c4bf5a-0561-44bc-bd88-4435a9d61398)
+![image](https://github.com/user-attachments/assets/d31a18e7-d9c5-4bd4-afac-bebd8f43424e)
+![image](https://github.com/user-attachments/assets/dfee08f8-1b54-492f-a347-8b057209081b)
+![image](https://github.com/user-attachments/assets/d1c728a7-e189-4308-9495-6280fa02ba6d)
 
 ---
 
