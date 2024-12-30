@@ -50,6 +50,7 @@ This repository contains a collection of machine learning algorithm implementati
 ![image](https://github.com/user-attachments/assets/d31a18e7-d9c5-4bd4-afac-bebd8f43424e)
 ![image](https://github.com/user-attachments/assets/dfee08f8-1b54-492f-a347-8b057209081b)
 ![image](https://github.com/user-attachments/assets/d1c728a7-e189-4308-9495-6280fa02ba6d)
+![image](https://github.com/user-attachments/assets/1abed971-3c05-4de4-97f1-4776d13309f6)
 
 ---
 
@@ -97,6 +98,7 @@ The repository includes references to popular datasets from [Kaggle](https://www
 - 📂 **[Boston Housing Dataset](https://github.com/Rishi52/ML-Algorithm-Implementations/blob/main/Dataset/housing.csv)**
 - 📂 **[Breast Cancer Dataset](https://www.kaggle.com/datasets/yasserh/breast-cancer-dataset)**
 - 📂 **[Iris Dataset](https://www.kaggle.com/datasets/himanshunakrani/iris-dataset/data)**
+- 📂 **[Wine Dataset](https://www.kaggle.com/datasets/elvinrustam/wine-dataset)**
 
 Ensure to download these datasets from reliable sources like  kaggle or scikit-learn if not provided.
 
