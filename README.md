@@ -36,6 +36,11 @@ This repository contains a collection of machine learning algorithm implementati
 2. 📏 Implement SVM with different kernels (linear, polynomial, RBF) using scikit-learn.
 3. 📉 Evaluate the models and visualize the decision boundaries.
 
+### [Principal Component Analysis (PCA)](https://github.com/Rishi52/ML-Algorithm-Implementations/blob/main/Principal%20Component%20Analysis%20(PCA).ipynb)
+
+1. 📊 Load a high-dimensional dataset Wine dataset.
+2. 📉 Implement PCA using scikit-learn.
+
 ---
 
 ![image](https://github.com/user-attachments/assets/7f35e91a-1ffe-40ec-add9-36bb05728905)
