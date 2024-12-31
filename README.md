@@ -14,7 +14,7 @@ This repository contains a collection of machine learning algorithm implementati
 
 ### [Linear Regression](https://github.com/Rishi52/ML-Algorithm-Implementations/blob/main/Linear%20Regression.ipynb)
 
-1. 📊 Load Boston Housing dataset.
+1. 📊 Load [Boston Housing dataset](https://github.com/Rishi52/ML-Algorithm-Implementations/blob/main/Dataset/housing.csv).
 2. 📉 Implement simple linear regression and multiple linear regression using scikit-learn.
 3. 📈 Evaluate the models using mean squared error and visualize the regression line.
 
