@@ -41,6 +41,12 @@ This repository contains a collection of machine learning algorithm implementati
 1. 📊 Load a high-dimensional dataset Wine dataset.
 2. 📉 Implement PCA using scikit-learn.
 
+###  [K-means Clustering](https://github.com/Rishi52/ML-Algorithm-Implementations/blob/main/K-means%20Clustering.ipynb)
+
+1. 📊 Load a dataset suitable for clustering [Customer Segmentation dataset](https://github.com/Rishi52/ML-Algorithm-Implementations/blob/main/Dataset/Mall_Customers.csv). 🔍
+2. 📊 Implement k-means clustering using scikit-learn. ⚙️
+3. 📈 Determine the optimal number of clusters using the elbow method and visualize the clusters. 📊
+
 ---
 
 ![image](https://github.com/user-attachments/assets/7f35e91a-1ffe-40ec-add9-36bb05728905)
@@ -49,8 +55,8 @@ This repository contains a collection of machine learning algorithm implementati
 ![image](https://github.com/user-attachments/assets/45c4bf5a-0561-44bc-bd88-4435a9d61398)
 ![image](https://github.com/user-attachments/assets/d31a18e7-d9c5-4bd4-afac-bebd8f43424e)
 ![image](https://github.com/user-attachments/assets/dfee08f8-1b54-492f-a347-8b057209081b)
-![image](https://github.com/user-attachments/assets/d1c728a7-e189-4308-9495-6280fa02ba6d)
 ![image](https://github.com/user-attachments/assets/1abed971-3c05-4de4-97f1-4776d13309f6)
+![image](https://github.com/user-attachments/assets/8f17d04f-c0ef-4528-baa0-4ea906e1cb87)
 
 ---
 
@@ -99,6 +105,7 @@ The repository includes references to popular datasets from [Kaggle](https://www
 - 📂 **[Breast Cancer Dataset](https://www.kaggle.com/datasets/yasserh/breast-cancer-dataset)**
 - 📂 **[Iris Dataset](https://www.kaggle.com/datasets/himanshunakrani/iris-dataset/data)**
 - 📂 **[Wine Dataset](https://www.kaggle.com/datasets/elvinrustam/wine-dataset)**
+- 📂 **[Customer Segmentation dataset](https://github.com/Rishi52/ML-Algorithm-Implementations/blob/main/Dataset/Mall_Customers.csv)**
 
 Ensure to download these datasets from reliable sources like  kaggle or scikit-learn if not provided.
 
