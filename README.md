@@ -47,6 +47,12 @@ This repository contains a collection of machine learning algorithm implementati
 2. 📊 Implement k-means clustering using scikit-learn. ⚙️
 3. 📈 Determine the optimal number of clusters using the elbow method and visualize the clusters. 📊
 
+### Ensemble Methods
+
+1. 📊 Load a dataset for classification Titanic dataset.
+2. 🎯 Implement ensemble methods (Random Forest, AdaBoost, Gradient Boosting) using scikit-learn.
+3. 📈 Compare their performance and visualize the results.
+
 ---
 
 ![image](https://github.com/user-attachments/assets/7f35e91a-1ffe-40ec-add9-36bb05728905)
