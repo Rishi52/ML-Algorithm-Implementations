@@ -8,7 +8,7 @@ This repository contains a collection of machine learning algorithm implementati
 
 ### [Data Visualization and Exploration](https://github.com/Rishi52/ML-Algorithm-Implementations/blob/main/Data%20Visualization%20and%20Exploration.ipynb)
 
-1. 📂 Load Titanic dataset.
+1. 📂 Load [Titanic dataset](https://www.kaggle.com/datasets/yasserh/titanic-dataset).
 2. 📊 Create visualizations: histograms, scatter plots, box plots, and heatmaps.
 3. 📈 Interpret data distributions and relationships. 
 
@@ -20,13 +20,13 @@ This repository contains a collection of machine learning algorithm implementati
 
 ### [Logistic Regression](https://github.com/Rishi52/ML-Algorithm-Implementations/blob/main/Logistic%20Regression.ipynb)
 
-1. 📊 Load a binary classification dataset i.e. Breast Cancer dataset.
+1. 📊 Load a binary classification dataset i.e. [Breast Cancer dataset](https://www.kaggle.com/datasets/yasserh/breast-cancer-dataset).
 2. 🧮 Implement logistic regression using scikit-learn.
 3. 📊 Evaluate the model using accuracy, precision, recall, and plot the ROC curve.
 
 ### [Decision Trees and Random Forests](https://github.com/Rishi52/ML-Algorithm-Implementations/blob/main/Decision%20Tree%20and%20Random%20Forest.ipynb)
 
-1. 📊 Load a classification dataset Iris dataset.
+1. 📊 Load a classification dataset [Iris dataset](https://www.kaggle.com/datasets/himanshunakrani/iris-dataset/data).
 2. 🌳 Implement decision tree and random forest classifiers using scikit-learn.
 3. 📋 Evaluate the models, visualize the decision trees, and analyze feature importance.
 
@@ -38,7 +38,7 @@ This repository contains a collection of machine learning algorithm implementati
 
 ### [Principal Component Analysis (PCA)](https://github.com/Rishi52/ML-Algorithm-Implementations/blob/main/Principal%20Component%20Analysis%20(PCA).ipynb)
 
-1. 📊 Load a high-dimensional dataset Wine dataset.
+1. 📊 Load a high-dimensional dataset [Wine dataset](https://www.kaggle.com/datasets/elvinrustam/wine-dataset).
 2. 📉 Implement PCA using scikit-learn.
 
 ###  [K-means Clustering](https://github.com/Rishi52/ML-Algorithm-Implementations/blob/main/K-means%20Clustering.ipynb)
@@ -49,7 +49,7 @@ This repository contains a collection of machine learning algorithm implementati
 
 ### Ensemble Methods
 
-1. 📊 Load a dataset for classification Titanic dataset.
+1. 📊 Load a dataset for classification [Titanic dataset](https://www.kaggle.com/datasets/yasserh/titanic-dataset).
 2. 🎯 Implement ensemble methods (Random Forest, AdaBoost, Gradient Boosting) using scikit-learn.
 3. 📈 Compare their performance and visualize the results.
 
