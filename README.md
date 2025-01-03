@@ -53,6 +53,12 @@ This repository contains a collection of machine learning algorithm implementati
 2. 🎯 Implement ensemble methods (Random Forest, AdaBoost, Gradient Boosting) using scikit-learn.
 3. 📈 Compare their performance and visualize the results.
 
+### Artificial Neural Networks (ANN)
+
+1. 📊 Load a classification dataset [MNIST dataset](https://www.kaggle.com/datasets/hojjatk/mnist-dataset).
+2. 🧠 Build and train a simple feed-forward neural network using TensorFlow or Keras.
+3. 📈 Evaluate the model and visualize the training process (loss and accuracy curves).
+
 ---
 
 ![image](https://github.com/user-attachments/assets/7f35e91a-1ffe-40ec-add9-36bb05728905)
