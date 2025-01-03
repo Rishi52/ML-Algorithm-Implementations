@@ -119,6 +119,7 @@ The repository includes references to popular datasets from [Kaggle](https://www
 - 📂 **[Iris Dataset](https://www.kaggle.com/datasets/himanshunakrani/iris-dataset/data)**
 - 📂 **[Wine Dataset](https://www.kaggle.com/datasets/elvinrustam/wine-dataset)**
 - 📂 **[Customer Segmentation dataset](https://github.com/Rishi52/ML-Algorithm-Implementations/blob/main/Dataset/Mall_Customers.csv)**
+- 📂 **[MNIST dataset](https://www.kaggle.com/datasets/hojjatk/mnist-dataset)**
 
 Ensure to download these datasets from reliable sources like  kaggle or scikit-learn if not provided.
 
